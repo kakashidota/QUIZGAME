@@ -1,0 +1,49 @@
+﻿{
+  "Title": "Sport Quiz",
+  "Questions": [
+    {
+      "Statement": "Vilket land vann Fotbolls-VM 2018?",
+      "Answers": [
+        "Frankrike",
+        "Brasilien",
+        "Kroation",
+        "England"
+      ],
+      "CorrectAnswers": 0,
+      "Category": "Sport"
+    },
+    {
+      "Statement": "Vilket sportevenemang kallas ibland för 'De Olympiska Spelen'?",
+      "Answers": [
+        "Fotbolls-VM",
+        "Världsmästerskapen i friidrott",
+        "Tour de France",
+        "Sommar- och Vinterspelen"
+      ],
+      "CorrectAnswers": 3,
+      "Category": "Sport"
+    },
+    {
+      "Statement": "Vilket landslag har vunnit flest FIFA World Cup-titlar?",
+      "Answers": [
+        "Italien",
+        "Tyskland",
+        "Brasilien",
+        "Argentina"
+      ],
+      "CorrectAnswers": 2,
+      "Category": "Sport"
+    },
+    {
+      "Statement": "Vem är känd som 'The Great One' inom ishockey?",
+      "Answers": [
+        "Wayne Gretzky",
+        "Mario Lemieux",
+        "Sidney Crosby",
+        "Bobby Orr"
+      ],
+      "CorrectAnswers": 0,
+      "Category": "Sport"
+    }
+  ]
+}

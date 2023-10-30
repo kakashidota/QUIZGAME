@@ -1,0 +1,115 @@
+﻿{
+  "Title": "Music Quiz",
+  "Questions": [
+    {
+      "Statement": "Vilken musikgenre är känd för att använda en elektronisk synthesizer?",
+      "Answers": [
+        "Rock",
+        "Pop",
+        "Reggae",
+        "Elektronisk musik"
+      ],
+      "CorrectAnswers": 3,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vem är känd som 'The King of Pop?'?",
+      "Answers": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Freddie Mercury",
+        "Bob Marley"
+      ],
+      "CorrectAnswers": 0,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vilket instrument är central i flamenco-music?",
+      "Answers": [
+        "Gitarr",
+        "Piano",
+        "Trumpet",
+        "Saxofon"
+      ],
+      "CorrectAnswers": 0,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vilken artist släppte albumet 'Back to Black' år 2006?",
+      "Answers": [
+        "Adele",
+        "Amy Winehouse",
+        "Rihanna",
+        "Taylor Swift"
+      ],
+      "CorrectAnswers": 1,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vad är Beatles mest sålda låt?",
+      "Answers": [
+        "Hey Jude",
+        "Yellow Submarine",
+        "I Want To Hold Your Hands",
+        "Let It Be"
+      ],
+      "CorrectAnswers": 2,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vilken klassisk kompositör är kan för 'Symfoni nr 9'?",
+      "Answers": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Pyotr Ilyich Tchaikovsky",
+        "Ludwig van Beethoven"
+      ],
+      "CorrectAnswers": 3,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vilket år bildades rockbandet Led Zeppelin?",
+      "Answers": [
+        "1969",
+        "1975",
+        "1980",
+        "1960"
+      ],
+      "CorrectAnswers": 0,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vem är känd för hits som 'Like a Virgin' och 'Material Girl'?",
+      "Answers": [
+        "Britney Spears",
+        "Madonna",
+        "Lady Gaga",
+        "Whitney Houston"
+      ],
+      "CorrectAnswers":1,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vilket instrument är Charlie Parker känd för att spela?",
+      "Answers": [
+        "Trummor",
+        "Basgitarr",
+        "Saxofon",
+        "Piano"
+      ],
+      "CorrectAnswers": 2,
+      "Category": "Music"
+    },
+    {
+      "Statement": "Vad är Rolling Stones mest kända låt?",
+      "Answers": [
+        "Paint It Black",
+        "Angie",
+        "Satisfaction",
+        "Brown Sugar"
+      ],
+      "CorrectAnswers": 2,
+      "Category": "Music"
+    }
+  ]
+}

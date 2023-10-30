@@ -1,0 +1,42 @@
+﻿<Window x:Class="QUIZGAME.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QUIZGAME"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="600" Background="#FF2D0437">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Image x:Name="QuizImage" Grid.Column="2" Grid.ColumnSpan="5" Grid.Row="1" Grid.RowSpan="5" Source="Images/QuizGame.jpg" Height="300" Width="450"/>
+        <TextBlock Text="WELCOME TO THE QUIZ GAME" Grid.Column="3" Grid.ColumnSpan="3" Grid.Row="7" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#FFF9EE79"/>
+        <Button x:Name="ToSeeCategory" Grid.Column="3" Grid.ColumnSpan="3" Grid.Row="9" Content="Click to see the Catagories" FontWeight="Bold" Height="30" Width="230" Background="#FFFBD937" Click="ToSeeCategory_Click"/>
+    </Grid>
+</Window>
